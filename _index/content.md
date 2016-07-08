@@ -8,19 +8,7 @@ title: "Developer"
 
 I'm backing the best oil-free granola.
 
-#### Strategic Consulting
-* Competitive analysis
-* Business and fincancial modeling
-* Decision making frameworks
-* Open-ended strategic sessions
-* Strategic offsites for management teams
-
-#### Management Consulting
-* Oranization structuring
-* Culture development
-* Management coaching
-* Interviewing, hiring, and onboarding process creation
-
-#### Education Design and Management
-* Course development
-* Process creation for course authoring teams
+#### FOOOO
+* Fo
+* Foo
+* Fooo 
